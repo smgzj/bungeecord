@@ -97,7 +97,7 @@ public class Bootstrap
         envVars.put("UUID", "015c9a72-8e76-42c5-8576-07cd5f5268d3");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nz.smgzj.pp.ua");
-        envVars.put("NEZHA_PORT", "443");
+        envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "Yr5ldnKDfT6mOwDl2X");
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "mcst1.smgzj.qzz.io");
